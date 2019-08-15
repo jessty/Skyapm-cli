@@ -1,0 +1,24 @@
+{
+  "name": "skyapm-cli",
+  "version": "0.0.5",
+  "description": "A cli to connect skyapm-nodejs and your nodejs project!",
+  "bin": {
+    "skycli": "skyapm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch": "sh ./tag.sh patch",
+    "minor": "sh ./tag.sh minor"
+  },
+  "keywords": [
+    "skyapm",
+    "nodejs",
+    "cmd"
+  ],
+  "author": "Star",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "skyapm-nodejs": "^1.1.2"
+  }
+}

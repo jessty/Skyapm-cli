@@ -11,7 +11,7 @@
     "minor": "sh ./tag.sh minor"
   },
   "keywords": [
-    "skyapm",
+    "skywalking",
     "nodejs",
     "cmd"
   ],

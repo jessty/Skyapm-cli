@@ -1,6 +1,6 @@
 {
   "name": "skyapm-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A cli to connect skyapm-nodejs and your nodejs project!",
   "bin": {
     "skycli": "skyapm.js"

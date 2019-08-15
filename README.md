@@ -9,7 +9,7 @@
 ## 3.使用步骤
 - 全局安装skyapm-cli
 ```sh
-  npm install -g skyapm-cli # 安装内部依赖node-pre-gyp可能会出现权限问题，可通过添加 --unsafe-prem 解决
+  npm install -g skyapm-cli # 安装内部依赖node-pre-gyp可能会出现权限问题，可通过添加 --unsafe-perm 解决
 ```
 - 设置参数，生成skyapm-app.js文件(假如目标项目启动文件地址为app.js)
 ```sh
